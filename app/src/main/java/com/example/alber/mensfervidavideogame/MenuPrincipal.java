@@ -9,7 +9,7 @@ public class MenuPrincipal extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_menu_principal);
-        //hola by pedromi
+        //hola mundo by pedromi
         //Prueba Diego R. 22/01/2017 17:16
         //Prueba Angel -- Tsuna no está aquí
         // miki boosted
