@@ -9,5 +9,6 @@ public class MenuPrincipal extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_menu_principal);
+        // Editado por Diego Robledo 22/01/2017 16:52
     }
 }
